@@ -2,6 +2,8 @@
 
 Пользовательский интерфейс чата мессенджера MAX (внешний вид по прототипу [web.max.ru](https://web.max.ru)) для отправки и получения текстовых сообщений через сервис [GREEN-API](https://green-api.com/max).
 
+**Демо:** https://max-chat-green-api.netlify.app
+
 ## Функциональность
 
 - Авторизация по учётным данным инстанса GREEN-API (`idInstance`, `apiTokenInstance`) — проверка методом `getSettings`.
