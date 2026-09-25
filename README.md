@@ -2,7 +2,7 @@
 
 Пользовательский интерфейс чата мессенджера MAX (внешний вид по прототипу [web.max.ru](https://web.max.ru)) для отправки и получения текстовых сообщений через сервис [GREEN-API](https://green-api.com/max).
 
-**Демо:** https://max-chat-green-api.netlify.app
+**Демо:** https://maxchat-green-api.netlify.app
 
 ## Функциональность
 
